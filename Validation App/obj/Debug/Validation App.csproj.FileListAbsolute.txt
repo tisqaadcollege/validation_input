@@ -1,0 +1,11 @@
+C:\Users\Abdirizak\source\repos\Class 630 PM\Validation App\Validation App\bin\Debug\Validation App.exe.config
+C:\Users\Abdirizak\source\repos\Class 630 PM\Validation App\Validation App\bin\Debug\Validation App.exe
+C:\Users\Abdirizak\source\repos\Class 630 PM\Validation App\Validation App\bin\Debug\Validation App.pdb
+C:\Users\Abdirizak\source\repos\Class 630 PM\Validation App\Validation App\obj\Debug\Validation App.csproj.AssemblyReference.cache
+C:\Users\Abdirizak\source\repos\Class 630 PM\Validation App\Validation App\obj\Debug\Validation App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdirizak\source\repos\Class 630 PM\Validation App\Validation App\obj\Debug\Validation_App.frmLogin.resources
+C:\Users\Abdirizak\source\repos\Class 630 PM\Validation App\Validation App\obj\Debug\Validation_App.Properties.Resources.resources
+C:\Users\Abdirizak\source\repos\Class 630 PM\Validation App\Validation App\obj\Debug\Validation App.csproj.GenerateResource.cache
+C:\Users\Abdirizak\source\repos\Class 630 PM\Validation App\Validation App\obj\Debug\Validation App.csproj.CoreCompileInputs.cache
+C:\Users\Abdirizak\source\repos\Class 630 PM\Validation App\Validation App\obj\Debug\Validation App.exe
+C:\Users\Abdirizak\source\repos\Class 630 PM\Validation App\Validation App\obj\Debug\Validation App.pdb
